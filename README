@@ -1,1 +1,5 @@
-This is a Mesquite package that allows trees to be retrieved from the Phylotastic web service.
+This is a Mesquite package that allows trees to be retrieved from the Phylotastic web service.  
+
+DEMO.  See http://www.youtube.com/watch?v=Lak-zjwFuhQ&feature=youtube_gdata_player
+
+INSTALL.  Compile this and put the class files into your mesquite folder. 
